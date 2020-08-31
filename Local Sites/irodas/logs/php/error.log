@@ -1,0 +1,34 @@
+[11-Aug-2020 03:33:37 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php on line 388
+[11-Aug-2020 03:33:37 UTC] PHP Stack trace:
+[11-Aug-2020 03:33:37 UTC] PHP   1. {main}() /Users/ryota.o/Local Sites/irodas/app/public/wp-admin/update.php:0
+[11-Aug-2020 03:33:37 UTC] PHP   2. Theme_Upgrader->install() /Users/ryota.o/Local Sites/irodas/app/public/wp-admin/update.php:284
+[11-Aug-2020 03:33:37 UTC] PHP   3. Theme_Upgrader->run() /Users/ryota.o/Local Sites/irodas/app/public/wp-admin/includes/class-theme-upgrader.php:221
+[11-Aug-2020 03:33:37 UTC] PHP   4. do_action() /Users/ryota.o/Local Sites/irodas/app/public/wp-admin/includes/class-wp-upgrader.php:841
+[11-Aug-2020 03:33:37 UTC] PHP   5. WP_Hook->do_action() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/plugin.php:478
+[11-Aug-2020 03:33:37 UTC] PHP   6. WP_Hook->apply_filters() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:311
+[11-Aug-2020 03:33:37 UTC] PHP   7. wp_update_plugins() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:285
+[11-Aug-2020 03:33:37 UTC] PHP   8. trigger_error() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php:388
+[17-Aug-2020 07:01:23 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php on line 162
+[17-Aug-2020 07:01:23 UTC] PHP Stack trace:
+[17-Aug-2020 07:01:23 UTC] PHP   1. {main}() /Users/ryota.o/Local Sites/irodas/app/public/wp-cron.php:0
+[17-Aug-2020 07:01:23 UTC] PHP   2. do_action_ref_array() /Users/ryota.o/Local Sites/irodas/app/public/wp-cron.php:138
+[17-Aug-2020 07:01:23 UTC] PHP   3. WP_Hook->do_action() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/plugin.php:544
+[17-Aug-2020 07:01:23 UTC] PHP   4. WP_Hook->apply_filters() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:311
+[17-Aug-2020 07:01:23 UTC] PHP   5. wp_version_check() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:287
+[17-Aug-2020 07:01:23 UTC] PHP   6. trigger_error() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php:162
+[17-Aug-2020 07:01:24 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php on line 388
+[17-Aug-2020 07:01:24 UTC] PHP Stack trace:
+[17-Aug-2020 07:01:24 UTC] PHP   1. {main}() /Users/ryota.o/Local Sites/irodas/app/public/wp-cron.php:0
+[17-Aug-2020 07:01:24 UTC] PHP   2. do_action_ref_array() /Users/ryota.o/Local Sites/irodas/app/public/wp-cron.php:138
+[17-Aug-2020 07:01:24 UTC] PHP   3. WP_Hook->do_action() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/plugin.php:544
+[17-Aug-2020 07:01:24 UTC] PHP   4. WP_Hook->apply_filters() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:311
+[17-Aug-2020 07:01:24 UTC] PHP   5. wp_update_plugins() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:287
+[17-Aug-2020 07:01:24 UTC] PHP   6. trigger_error() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php:388
+[17-Aug-2020 07:01:24 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php on line 578
+[17-Aug-2020 07:01:24 UTC] PHP Stack trace:
+[17-Aug-2020 07:01:24 UTC] PHP   1. {main}() /Users/ryota.o/Local Sites/irodas/app/public/wp-cron.php:0
+[17-Aug-2020 07:01:24 UTC] PHP   2. do_action_ref_array() /Users/ryota.o/Local Sites/irodas/app/public/wp-cron.php:138
+[17-Aug-2020 07:01:24 UTC] PHP   3. WP_Hook->do_action() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/plugin.php:544
+[17-Aug-2020 07:01:24 UTC] PHP   4. WP_Hook->apply_filters() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:311
+[17-Aug-2020 07:01:24 UTC] PHP   5. wp_update_themes() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/class-wp-hook.php:287
+[17-Aug-2020 07:01:24 UTC] PHP   6. trigger_error() /Users/ryota.o/Local Sites/irodas/app/public/wp-includes/update.php:578
